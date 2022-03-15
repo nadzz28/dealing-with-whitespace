@@ -23,7 +23,7 @@ header {
 }
 
 body {
-  margin: 35px 2px;
+  margin: 35px, 2px;
 }
 
 article {
@@ -47,8 +47,8 @@ h1 + p {
 
 article h1 {
   font-family: serif;
-  font-weight: 400;
-  color: #222
+  font-weight: normal;
+  color: #222;
 }
 
 article p {
