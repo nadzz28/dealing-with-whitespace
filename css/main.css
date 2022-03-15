@@ -19,7 +19,7 @@ html {
 
 header {
   border-bottom: 1px solid #555;
-  line-height: 1.4rem;
+  line-height: 1px;
 }
 
 body {
@@ -29,12 +29,11 @@ body {
 article {
   color: #222;
   border-bottom: 1px solid #555;
-  margin: 10px .5px;
 }
 
 article header p {
   font-style: italic;
-  font-size: 1rem;
+  font-size: 1.125rem;
   color: #222;
 }
 
@@ -44,35 +43,27 @@ article header {
 
 h1 + p {
   line-height: 0;
-  padding: 0;
-  margin: 8px 0;
 }
 
 article h1 {
   font-family: serif;
   font-weight: normal;
   color: #222;
-  margin-bottom: .5px;
-  padding: 0;
-  line-height: 1rem;
 }
 
 article p {
   color: #222;
-  line-height: 1.3rem;
 }
 
 article ol {
   color: #222;
   padding-left: 1rem;
-  margin-bottom: 1px;
 }
 
 blockquote {
   color: #999;
   font-size: 1.125rem;
   font-family: italic;
-  padding-bottom: 0;
 }
 
 .quote {
