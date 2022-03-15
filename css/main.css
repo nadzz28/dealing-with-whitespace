@@ -46,7 +46,6 @@ h1 + p {
 }
 
 article h1 {
-  @@ -51,23 +45,29 @ article h1 {
   font-family: serif;
   font-weight: 400;
   color: #222
